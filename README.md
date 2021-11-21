@@ -2,6 +2,7 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <h5 align="center">Techs that I've used at least once</h5>
 <div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jwhyee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-3766AB?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>
@@ -32,6 +33,5 @@
 <img src="https://img.shields.io/badge/3DS MAX-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/></a>
 <br>
 </div>
-<rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="299" fill="#fffefe" stroke-opacity="1"/>
 <!-- 색상 코드 : https://shields.io/ -->
 <!-- 아이콘 이름 : https://simpleicons.org/?q=java -->
