@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Autodesk-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/3DS MAX-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/></a>
 <br>
 
 
