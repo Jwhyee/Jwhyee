@@ -32,7 +32,6 @@
 <img src="https://img.shields.io/badge/3DS MAX-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/></a>
 <br>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Jwhyee=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Jwhyee=anuraghazra&hide=contribs,prs)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?Jwhyee=anuraghazra&repo=github-readme-stats)
 <!-- 색상 코드 : https://shields.io/ -->
 <!-- 아이콘 이름 : https://simpleicons.org/?q=java -->
