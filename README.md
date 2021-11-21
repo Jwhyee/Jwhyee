@@ -2,7 +2,6 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <h5 align="center">Techs that I've used at least once</h5>
 <div align="center">
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?Jwhyee=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-3766AB?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>
