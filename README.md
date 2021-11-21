@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-3766AB?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JSP-orange?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>
