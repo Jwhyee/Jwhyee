@@ -33,5 +33,6 @@
 <br>
 </div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Jwhyee=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Jwhyee=anuraghazra&hide=contribs,prs)
 <!-- 색상 코드 : https://shields.io/ -->
 <!-- 아이콘 이름 : https://simpleicons.org/?q=java -->
