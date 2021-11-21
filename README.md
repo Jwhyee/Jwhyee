@@ -22,8 +22,7 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
 </div>
 <br>
-<h3 align="center">🛠 Media Tools 🛠</h3>
-<h5 align="center">Tools that I've used at least once</h5>
+<h3 align="center">✂️ Design Tools ✂️</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
