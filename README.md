@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jwhy&fontSize=90)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-ji-hoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jwhyee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <h5 align="center">Techs that I've used at least once</h5>
 <div align="center">
