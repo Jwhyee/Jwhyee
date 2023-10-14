@@ -1,10 +1,10 @@
 <div align="center">
- 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=300&section=header&text=Ka%20Jun%20Young&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Web%20Back-End%20Developer&descAlignY=51&descAlign=62)
 
-<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=300&section=header&text=Ka%20Jun%20Young&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer&descAlignY=51&descAlign=62)
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 🛠️
+
+[![Project use](https://skillicons.dev/icons?i=java,spring,mysql,git,idea,aws&theme=dark)](#)
 
 <div style="display:inline">
  
@@ -26,9 +26,9 @@
 
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api?username=Jwhyee&show_icons=true&theme=basic&hide_border=true&bg_color=000&icon_color=fff&text_color=fff&title_color=fff"/>
-</a>
+|Github-Stats|Solved.ac|
+|:---:|:---:|
+|<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Jwhyee&show_icons=true&theme=basic&hide_border=true&bg_color=000&icon_color=fff&text_color=fff&title_color=fff"/></a>|[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwhy)](https://solved.ac/jwhy)|
 
 <br><br>
 
@@ -39,6 +39,25 @@
 <!--
 ## 🔥 Ka Jun Young 🔥
 
+// 스택 아이콘
+[![Project use](https://skillicons.dev/icons?i=java,spring,mysql,idea&theme=dark)](#)
+<div style="display:inline">
+ 
+ <img src="https://img.shields.io/badge/spring_boot-black?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+ <img src="https://img.shields.io/badge/junit5-black?style=for-the-badge&logo=junit5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/spring_data_jpa-black?style=for-the-badge&logo=springdatajpa&logoColor=white"/>
+ <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java&logoColor=white">
+ <br>
+ <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white">
+ <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white">
+ <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=AmazonAWS&logoColor=white">
+ <br>
+ <img src = "https://img.shields.io/badge/intellij-black?style=for-the-badge&logo=intellijidea"/>
+ <img src = "https://img.shields.io/badge/datagrip-black?style=for-the-badge&logo=datagrip"/>
+ <img src = "https://img.shields.io/badge/slack-black?style=for-the-badge&logo=slack"/>
+ <img src = "https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion"/>
+
+</div>
 
 // 깃허브 그래프
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
