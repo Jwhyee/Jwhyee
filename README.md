@@ -4,7 +4,7 @@
 
 ## 🛠️ Tech Stack 🛠️
 
-[![Project use](https://skillicons.dev/icons?i=java,spring,mysql,git,idea,aws&theme=dark)](#)
+[![Project use](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,git,idea,aws&theme=dark)](#)
 
 <div style="display:inline">
  
@@ -12,6 +12,7 @@
  <img src="https://img.shields.io/badge/junit5-black?style=for-the-badge&logo=junit5&logoColor=white"/>
  <img src="https://img.shields.io/badge/spring_data_jpa-black?style=for-the-badge&logo=springdatajpa&logoColor=white"/>
  <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white">
  <br>
  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white">
  <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white">
