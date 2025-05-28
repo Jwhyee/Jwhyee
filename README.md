@@ -33,7 +33,7 @@
 
 <br><br>
 
-![Hits](https://hit-s.kro.kr/api/count/badge?url=https://github.com/Jwhyee&color=4caf50)
+![Hits](https://hit-s.kro.kr/api/count/badge?url=https://github.com/Jwhyee&color=4caf50&icon=zap&t=2025052801)
 
 </div>
 
