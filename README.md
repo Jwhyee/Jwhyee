@@ -31,9 +31,9 @@
 |:---:|:---:|
 |<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Jwhyee&show_icons=true&theme=basic&hide_border=true&bg_color=000&icon_color=fff&text_color=fff&title_color=fff"/></a>|[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwhy)](https://solved.ac/jwhy)|
 
-<br><br>
+<br>
 
-![Hits](https://hit-s.kro.kr/api/count/badge?url=https://github.com/Jwhyee&color=4caf50&icon=zap&r=111)
+[![Hits](https://hit-s.kro.kr/api/v2/count/badge?url=https://github.com/Jwhyee&title=&color=4CAF50&icon=zap&r=v2)](https://hit-s.kro.kr/count/generate)
 
 </div>
 
