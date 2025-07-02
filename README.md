@@ -20,7 +20,6 @@
  <br>
  <img src = "https://img.shields.io/badge/intellij-black?style=for-the-badge&logo=intellijidea"/>
  <img src = "https://img.shields.io/badge/datagrip-black?style=for-the-badge&logo=datagrip"/>
- <img src = "https://img.shields.io/badge/slack-black?style=for-the-badge&logo=slack"/>
  <img src = "https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion"/>
 
 </div>
