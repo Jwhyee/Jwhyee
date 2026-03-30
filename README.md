@@ -28,9 +28,11 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jwhy)](https://solved.ac/jwhy)
 
+<!-- 
 <br>
 
-[![Hits](https://hit-s.kro.kr/api/v2/count/badge?url=https://github.com/Jwhyee&title=&color=4CAF50&icon=zap&r=v2)](https://hit-s.kro.kr/count/generate)
+[![Hits](https://hit-s.kro.kr/api/v2/count/badge?url=https://github.com/Jwhyee&title=&color=4CAF50&icon=zap&r=v2)](https://hit-s.kro.kr/count/generate) 
+-->
 
 </div>
 
